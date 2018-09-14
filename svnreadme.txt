@@ -13,3 +13,5 @@ git commit from mb2
 git commit from mb3
 
 svn trunk commit
+
+git commit from mb4
