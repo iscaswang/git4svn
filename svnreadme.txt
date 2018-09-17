@@ -19,3 +19,5 @@ git commit from mb4
 svn trunk commit2
 
 git commit from mb5
+
+svn commit
