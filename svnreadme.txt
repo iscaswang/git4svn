@@ -21,3 +21,5 @@ svn trunk commit2
 git commit from mb5
 
 svn commit
+
+git branch b1 submit
